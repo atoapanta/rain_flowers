@@ -11,7 +11,7 @@ const WelcomeTitle = () => {
       <div className="text-center">
         <div style={{ fontFamily: "Macondo" }}>
           <h3 className="display-5">Aquí están tus Flores Amarillas</h3>
-          <h4 className="display-5">Mi Niña💕</h4>
+          <h4 className="display-5">Pamela Y.💕</h4>
         </div>
         <p className="lead">Follow Me</p>
         <a
